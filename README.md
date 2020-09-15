@@ -1,2 +1,2 @@
-# D-viz
+# Doviz
 Günlük Döviz Kuru
